@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **amanraj305.ar@gmail.com**
 
-<h3 align="left">Connect with me for :</h3>
+
 <p align="left">
 </p>
 
