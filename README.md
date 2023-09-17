@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Aman Raj</h1>
 <h3 align="center">A passionate Data Analyst developer from India</h3>
 
-- 🔭 I’m currently working **a Data Analyst**
+- 🔭 I’m currently working **A Data Analyst**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently mastering **Machine Learning**
 
-- 👯 I’m looking to collaborate on **Making ML models that solve real life problems**
+- 👯 I’m looking to collaborate on **Making ML models that solve real-life problems**
 
-- 💬 Ask me about **Python , Data visualization Tools like Excel , Power Bi , Tableau**
+- 💬 Ask me about **Python, R, SQL, Machine Learning,Deep Learning, and Data Visualization Tools like Excel, Power BI, Tableau and IBM Spss**
 
 - 📫 How to reach me **amanraj305.ar@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me for :</h3>
 <p align="left">
 </p>
 
